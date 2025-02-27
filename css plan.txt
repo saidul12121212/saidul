@@ -1,0 +1,6 @@
+1( font awesome)
+2(google font)
+3(css link)
+4( html css basic)
+5( images add)
+6(work first to last)
